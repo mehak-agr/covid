@@ -12,7 +12,8 @@ Below are instructions for running the detection script
 ### To Run:
 - Navigate to pytorch_retinanet/lib
   - run build.sh
-- Unzip the model in models/*
+- Unzip the model in models/* (Uploaded via LFS)
+- Create a results directory (where output csv is written to)
 - Navigate to predict_images.py
 - Change lines #164-166# as necessary
 
