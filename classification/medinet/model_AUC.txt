@@ -1,0 +1,70 @@
+../../expes/models/chestxray/lr0.001_lrp0_adam_epochs20_k0.4_maps8_alpha1_densenet/model_best.pth.tarNo Pneumonia AUC = 0.8001097992621553
+Pneumonia AUC = 0.8001097992621555
+Pneumonia AUC = nan
+../../expes/models/chestxray/lr0.001_lrp0_adam_epochs20_k0.4_maps8_alpha1_densenet/model_best.pth.tarNo Pneumonia AUC = 0.30907043332874495
+Pneumonia AUC = 0.3090571511599358
+Pneumonia AUC = nan
+../../expes/models/chestxray/lr0.01_lrp0.1_epochs20_k0.7_maps4_alpha1_densenet/model_best.pth.tarNo Pneumonia AUC = 0.8001097992621553
+Pneumonia AUC = 0.8001097992621555
+Pneumonia AUC = nan
+../../expes/models/chestxray/lr0.001_lrp0_adam_epochs20_k0.4_maps8_alpha1_densenet/model_best.pth.tar
+No Pneumonia AUC = 0.30907043332874495
+Pneumonia AUC = 0.3090571511599358
+Pneumonia AUC = nan
+../../expes/models/chestxray/lr0.01_lrp0.1_epochs20_k0.7_maps4_alpha1_densenet/model_best.pth.tar
+No Pneumonia AUC = 0.847681295566895
+Pneumonia AUC = 0.8476812955668951
+Pneumonia AUC = nan
+../../expes/models/chestxray/lr0.01_lrp0.1_epochs20_k1_maps4_alpha1_densenet/model_best.pth.tar
+No Pneumonia AUC = 0.8679683997079534
+Pneumonia AUC = 0.8679780594670871
+Pneumonia AUC = nan
+../../expes/models/chestxray/lr0.001_lrp0.1_epochs20_k0.4_maps8_alpha0.7_densenet/model_best.pth.tar
+No Pneumonia AUC = 0.8702654099320033
+Pneumonia AUC = 0.8702654099320035
+Pneumonia AUC = nan
+../../expes/models/chestxray/lr0.01_lrp0.1_epochs20_k2_maps4_alpha1_densenet/model_best.pth.tar
+No Pneumonia AUC = 0.8562668089871178
+Pneumonia AUC = 0.85884998957551
+Pneumonia AUC = nan
+../../expes/models/chestxray/lr0.01_lrp0.1_epochs20_k0.4_maps8_alpha0.7_densenet/model_best.pth.tar
+No Pneumonia AUC = 0.846080592980414
+Pneumonia AUC = 0.8460725431811358
+Pneumonia AUC = nan
+../../expes/models/chestxray/lr0.01_lrp0.1_epochs20_k0.4_maps4_alpha1_densenet/model_best.pth.tar
+No Pneumonia AUC = 0.8514389418699844
+Pneumonia AUC = 0.8514429667696236
+Pneumonia AUC = nan
+../../expes/models/chestxray/lr0.001_lrp0.1_epochs20_k0.4_maps8_alpha1_densenet/model_best.pth.tar
+No Pneumonia AUC = 0.6473262189207313
+Pneumonia AUC = 0.6473262189207313
+Pneumonia AUC = nan
+../../expes/models/chestxray/lr0.1_adam_epochs20_k0.4_maps8_alpha1_densenet/model_best.pth.tar
+No Pneumonia AUC = 0.8541646039056017
+Pneumonia AUC = 0.8541658113754935
+Pneumonia AUC = nan
+../../expes/models/chestxray/lr0.0001_lrp0.1_adam_epochs20_k0.4_maps8_alpha1_densenet/model_best.pth.tar
+No Pneumonia AUC = 0.85928306877668
+Pneumonia AUC = 0.8642457700317242
+Pneumonia AUC = nan
+../../expes/models/chestxray/lr0.001_adam_epochs20_k0.4_maps8_alpha1_densenet/model_best.pth.tar
+No Pneumonia AUC = 0.8688051763429279
+Pneumonia AUC = 0.8688015539332528
+Pneumonia AUC = nan
+../../expes/models/chestxray/lr0.01_lrp0.1_epochs20_k0.2_maps4_alpha0.7_densenet/model_best.pth.tar
+No Pneumonia AUC = 0.8604752440497896
+Pneumonia AUC = 0.8604756465397536
+Pneumonia AUC = nan
+../../expes/models/chestxray/lr0.01_lrp0.1_epochs20_k0.2_maps4_alpha1_densenet/model_best.pth.tar
+No Pneumonia AUC = 0.8486432465806466
+Pneumonia AUC = 0.8486436490706104
+Pneumonia AUC = nan
+../../expes/models/chestxray/lr0.01_lrp0.1_epochs20_k0.4_maps8_alpha1_densenet/model_best.pth.tar
+No Pneumonia AUC = 0.7677298841553386
+Pneumonia AUC = 0.7677306891352664
+Pneumonia AUC = nan
+../../expes/models/chestxray/lr0.01_lrp0.1_epochs20_k1_maps2_alpha1_densenet/model_best.pth.tar
+No Pneumonia AUC = 0.5014219970425038
+Pneumonia AUC = 0.8441180519163753
+Pneumonia AUC = nan
+../../expes/models/chestxray/lr0.01_adam_epochs20_k0.4_maps8_alpha1_densenet/model_best.pth.tar
