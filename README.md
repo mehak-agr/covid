@@ -12,8 +12,9 @@ Below are instructions for running the detection script
 ### To Run:
 - Navigate to pytorch_retinanet/lib
   - run build.sh
+- Unzip the model in models/*
 - Navigate to predict_images.py
-- Change lines *164-166* as necessary
+- Change lines #164-166# as necessary
 
 ### Input and Output formats:
 - Input: CSV containing the dicom image names (without the .dcm extension in the string name)
