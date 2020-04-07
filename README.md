@@ -10,8 +10,7 @@ Below are instructions for running the detection script
 - sklearn 0.20.3
 
 ### To Run:
-- Navigate to pytorch_retinanet/lib
-  - run build.sh
+- Run `. create_env.sh` in the detection folder
 - Unzip the model in models/* (Uploaded via LFS)
 - Create a results directory (where output csv is written to)
 - Navigate to predict_images.py
