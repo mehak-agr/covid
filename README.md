@@ -1,6 +1,9 @@
 # COVID
 
 ## Classification
+Below are the instructions for running the classification script
+# Requirements
+
 
 ## Detection
 Below are instructions for running the detection script
