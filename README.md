@@ -2,7 +2,17 @@
 
 ## Classification
 Below are the instructions for running the classification script
-# Requirements
+### Requirements
+Please see the requirements.txt file in classification folder
+
+### To Run
+- The network can be both trained and validated using the run.sh script provided by changing --evaluate argument
+- Tweak the other arguments as per convenience. A description of each argument is given in next section. 
+- CSV format: Two columns separated by ','
+  - path : full path pf the image file
+  - target : 1 for presence of anomaly and 0 for absence 
+  
+### Arguments
 
 
 ## Detection
