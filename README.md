@@ -38,7 +38,7 @@ Please see the requirements.txt file in classification folder for all packages. 
 - --balanced : Specify if you need balanced sampling or not (Default:1 (Balanced Sampling))
 - --loss : Specify which criterion you need (default:0 (BCELoss))
 
-Note - The model works with default arguments, you really don't need to set them, they are just there incase you need greater control over what the model does, the basic arguments that you should ideally set are all written up in run.sh, just replace the values ther.
+Note - The model works with default arguments, you really don't need to set them, they are just there incase you need greater control over what the model does, the basic arguments that you should ideally set are all written up in run.sh, just replace the values in there.
 
 ## Detection
 Below are instructions for running the detection script
