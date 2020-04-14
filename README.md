@@ -3,7 +3,7 @@
 ## Classification
 Below are the instructions for running the classification script
 ### Requirements
-Please see the requirements.txt file in classification folder
+Please see the requirements.txt file in classification folder for all packages. Mostly, on any default docker/environment that you usually have setup for all ML/DL projects, a 'pip install torchnet' command is all you might need extra.
 
 ### To Run
 - The network can be both trained and validated using the run.sh script provided by changing --evaluate argument
