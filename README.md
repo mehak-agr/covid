@@ -13,7 +13,32 @@ Please see the requirements.txt file in classification folder
   - target : 1 for presence of anomaly and 0 for absence 
   
 ### Arguments
+--data : path to dataset
+--model-dir : path to model directory
+--image-size', '-i' : image size (default: 320)
+--workers : number of data loading workers (default: 4)
+--epochs : number of total epochs to run
+--start-epoch : manual epoch number (useful on restarts)
+--batch_size : mini-batch size (default: 16)
+--lr : initial learning rate
+--lrp : learning rate for pre-trained layers
+--momentum : momentum
+--weight-decay : weight decay (default: 1e-4)
+--print_freq : print frequency (default: 0)
+--resume : path to latest checkpoint (default: none)
+--evaluate : evaluate model on validation set
+--k : number of regions (default: 0)
+--alpha : weight for the min regions (default: 0)
+--maps : number of maps per class (default: 0)
+--adam : Use Adam
+--arch : Use Baseline/Wildcat/Weldon (default:0 (Baseline))
+--variant : Use Densenet/Resnet/VGG (default:0 (Densenet))
+--train_csv : Give path to train csv
+--val_csv : Give validation csv
+--balanced : Specify if you need balanced sampling or not (Default:1 (Balanced Sampling))
+--loss : Specify which criterion you need (default:0 (BCELoss))
 
+Note - The model works with default arguments, you really don't need to set them, they are just there incase you need greater control over what the model does, the basic arguments that you should ideally set are all written up in run.sh, just replace the values ther.
 
 ## Detection
 Below are instructions for running the detection script
