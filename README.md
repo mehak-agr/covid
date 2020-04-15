@@ -5,6 +5,8 @@ Below are the instructions for running the classification script
 ### Requirements
 Please see the requirements.txt file in classification folder for all packages. Mostly, on any default docker/environment that you usually have setup for all ML/DL projects, a 'pip install torchnet' command is all you might need extra.
 
+You can also directly use the docker image. To pull use $sudo docker pull mehakagr/classcovid:V1 and then start with $sudo docker run --gpus all --ipc=host -it -v /path_to_main-folder/:/data --name covid_class mehakagr/classcovid:V1 (tweak as needed)
+
 ### To Run
 - The network can be both trained and validated using the run.sh script provided by changing --evaluate argument
 - Tweak the other arguments as per convenience. A description of each argument is given in next section. 
